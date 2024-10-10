@@ -3,7 +3,7 @@
 ## About Me
 I'm currently studying A-level computer science, math, and business studies. I have a passion for problem-solving and the tech industry, and I'm always eager to learn more and grow.
 
-## 🌱 I’m currently learning ...You
+## 🌱 I’m currently learning ...
 SQL, used to manage and query databases. It allows for efficient handling of data, making it possible to create, read, update, and delete data effectively.
 
 ## 🔭 I have experience in ...
