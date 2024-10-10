@@ -3,8 +3,8 @@
 ## About Me
 I'm currently studying A-level computer science, math, and business studies. I have a passion for problem-solving and the tech industry, and I'm always eager to learn more and grow.
 
-## 🌱 I’m currently learning ...
-C++, a powerful language that's widely used in the software industry. I'm excited to explore more about data structures, algorithms, and system design.
+## 🌱 I’m currently learning ...You
+SQL, used to manage and query databases. It allows for efficient handling of data, making it possible to create, read, update, and delete data effectively.
 
 ## 🔭 I have experience in ...
 Python, a versatile language that I've used for a variety of projects. I love its simplicity and the wide range of libraries available.
