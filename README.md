@@ -1,10 +1,12 @@
 # Hi there 👋, I'm Daniel Cocos!
 
 ## About Me
-I'm currently studying A-level computer science, math, and business studies. I have a passion for problem-solving and the tech industry, and I'm always eager to learn more and grow.
+I have finished my A-levels in computer science, math, and business studies. I love problem-solving and the tech industry, and I'm always eager to learn and grow.
 
 ## 🌱 I’m currently learning ...
-SQL, used to manage and query databases. It allows for efficient handling of data, making it possible to create, read, update, and delete data effectively.
+SQL, for managing and querying databases.
+C++, for game development and low-level memory manipulation capabilities 
+
 
 ## 🔭 I have experience in ...
 Python, a versatile language that I've used for a variety of projects. I love its simplicity and the wide range of libraries available.
