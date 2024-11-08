@@ -5,6 +5,7 @@ I have finished my A-levels in computer science, math, and business studies. I l
 
 ## 🌱 I’m currently learning ...
 SQL, for managing and querying databases.
+
 C++, for game development and low-level memory manipulation capabilities 
 
 
