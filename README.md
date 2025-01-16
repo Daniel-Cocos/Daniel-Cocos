@@ -6,7 +6,7 @@ I have finished my A-levels in computer science, math, and business studies. I l
 ## 🌱 I’m currently learning ...
 SQL, for managing and querying databases.
 
-Lua an amazing scripting language that I use for neovim
+Lua, an amazing scripting language that I use for neovim
 
 Java, Javascript, HTML and CSS because my school makes us
 
