@@ -15,7 +15,7 @@ Java, Javascript, HTML and CSS because my school makes us
 Python, a versatile language that I've used for a variety of projects. I love its simplicity and the wide range of libraries available.
 
 ## 📫 How to reach me
-Feel free to reach out to me through dev.danielcocos@gmail.com.
+Feel free to reach out through dev.danielcocos@gmail.com.
 
 ## ⚡ Other
 When I'm not coding, you can find me playing sports!
