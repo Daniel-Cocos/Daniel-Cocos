@@ -18,4 +18,4 @@ Python, a versatile language that I've used for a variety of projects. I love it
 Feel free to reach out to me through dev.danielcocos@gmail.com.
 
 ## ⚡ Other
-When I'm not coding, you can find playing sports, playing chess, or exploring the outdoors!
+When I'm not coding, you can find me playing sports!
