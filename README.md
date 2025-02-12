@@ -3,7 +3,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-dev.danielcocos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.danielcocos@gmail.com)](mailto:dev.danielcocos@gmail.com) 
 [![GitHub Badge](https://img.shields.io/badge/-Daniel--Cocos-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Daniel-Cocos)](https://github.com/Daniel-Cocos)
 
----
 
 #### About
 
