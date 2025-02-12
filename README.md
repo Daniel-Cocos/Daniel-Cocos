@@ -36,7 +36,7 @@
 
 **Tools:**
 
-- [![NeoVim](https://img.shields.io/static/v1?logo=neovim&label=&message=NeoVim&color=009900&logoColor=FFF&style=flat-square)](https://neovim.io/)
+  [![NeoVim](https://img.shields.io/static/v1?logo=neovim&label=&message=NeoVim&color=009900&logoColor=FFF&style=flat-square)](https://neovim.io/)
 
 ---
 
