@@ -3,8 +3,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-dev.danielcocos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.danielcocos@gmail.com)](mailto:dev.danielcocos@gmail.com) 
 [![GitHub Badge](https://img.shields.io/badge/-Daniel--Cocos-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Daniel-Cocos)](https://github.com/Daniel-Cocos)
 
+![](https://github-readme-stats.vercel.app/api?username=Daniel-Cocos&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Cocos&theme=transparent&hide_border=false)<br/>
 
 #### About
 
@@ -39,10 +39,7 @@
 
 
 
-## 📊 Stats:
+## 📊 Top Repos:
 ![](https://github-contributor-stats.vercel.app/api?username=Daniel-Cocos&limit=5&theme=transparent&combine_all_yearly_contributions=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Daniel-Cocos&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-
----
 [![](https://visitcount.itsvg.in/api?id=Daniel-Cocos&icon=2&color=0)](https://visitcount.itsvg.in)
