@@ -9,8 +9,7 @@
 
 <details open>
 <summary><h2>🧑‍💻 About</h2></summary>
-
-- University student that loves programming and spends his free time touching grass
+I am a <strong>full-time university student</strong> who loves technology. I have <strong>participated in</strong> the <a href="https://www.cipherchallenge.org/">National Cipher Challenge</a> organized by the <a href="https://www.southampton.ac.uk/">University of Southampton</a>, which provided me with the opportunity to work as a team to solve and break various ciphers. In my <strong>free time, I write programs</strong> that I personally find fun. I <strong>aspire to work in tech</strong> in any position that will best utilize my skills while also pushing me toward improvement. Additionally, I <strong>enjoy attending hackathons</strong> as a way to challenge my coding abilities, as well as a great opportunity to collaborate with other developers.
 </details>
 
 
@@ -53,6 +52,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Cocos&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </details>
 
+<br/>
 
 <details open>
 <summary><h2>📊 Top Repos</h2></summary>
