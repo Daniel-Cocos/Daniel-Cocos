@@ -1,8 +1,9 @@
 # Daniel Cocos
 
 <a href="mailto:dev.danielcocos@gmail.com"><img alt="dev.danielcocos@gmail.com" title="Gmail" src="https://custom-icon-badges.demolab.com/badge/-dev.danielcocos@gmail.com-C13535?style=for-the-badge&logoColor=white&logo=mail"/></a>
+<a href="https://devpost.com/Daniel-Cocos" target="blank"><img alt="devpost" src="https://img.shields.io/badge/Daniel Cocos-0077B5?style=for-the-badge&logo=devpost&logoColor=white" /></a>
 <a href="https://github.com/Daniel-Cocos"><img alt="github" title="github" src="https://custom-icon-badges.demolab.com/badge/-Github-1F222E?style=for-the-badge&logoColor=white&logo=github"/></a>
-<a href="https://github.com/Daniel-Cocos?tab=repositories&sort=stargazers"><img alt="Repositories" title="Repositories" src="https://custom-icon-badges.demolab.com/badge/-Repos-191C26?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/Daniel-Cocos?tab=repositories&sort=stargazers"><img alt="repositories" title="Repositories" src="https://custom-icon-badges.demolab.com/badge/-Repos-191C26?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 ![](https://github-readme-stats.vercel.app/api?username=Daniel-Cocos&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
