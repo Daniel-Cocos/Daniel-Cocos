@@ -27,7 +27,7 @@ I am a <strong>full-time university student</strong> who loves technology. I hav
 <details open>
 <summary><h2>📋 Bucket List</h2></summary>
   <ul>
-    <li><strong>Benchmark Website</strong>: Creating an interactive benchmark website</li>
+    <li><strong>Benchmark Website</strong>: Creating an interactive benchmark website.</li>
     <li><strong>Custom Scripting Language</strong>: Building a custom scripting language.</li>
     <li><strong>Portfolio Website</strong>: Personal website to showcase my work and projects.</li>
     <li><strong>3D Game Engine</strong>: Engine to help develop better low-level programming skills.</li>
