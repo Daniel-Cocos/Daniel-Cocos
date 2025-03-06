@@ -1,11 +1,18 @@
-# Daniel Cocos
+<div id="user-content-toc" align="center">
+  <ul align="center" style="list-style: none;">
+    <summary align="center">
+      <h1 align="center">Daniel Cocos</h1></br>
+       <a href="mailto:dev.danielcocos@gmail.com"><img alt="dev.danielcocos@gmail.com" title="Gmail" src="https://custom-icon-badges.demolab.com/badge/-dev.danielcocos@gmail.com-C13535?style=for-the-badge&logoColor=white&logo=mail"/></a>
+  <a href="https://devpost.com/Daniel-Cocos" target="blank"><img alt="devpost" src="https://img.shields.io/badge/Daniel Cocos-0077B5?style=for-the-badge&logo=devpost&logoColor=white" /></a>
+    </summary>
+  </ul>
+</div>
 
-<a href="mailto:dev.danielcocos@gmail.com"><img alt="dev.danielcocos@gmail.com" title="Gmail" src="https://custom-icon-badges.demolab.com/badge/-dev.danielcocos@gmail.com-C13535?style=for-the-badge&logoColor=white&logo=mail"/></a>
-<a href="https://devpost.com/Daniel-Cocos" target="blank"><img alt="devpost" src="https://img.shields.io/badge/Daniel Cocos-0077B5?style=for-the-badge&logo=devpost&logoColor=white" /></a>
-<a href="https://github.com/Daniel-Cocos"><img alt="github" title="github" src="https://custom-icon-badges.demolab.com/badge/-Github-1F222E?style=for-the-badge&logoColor=white&logo=github"/></a>
-<a href="https://github.com/Daniel-Cocos?tab=repositories&sort=stargazers"><img alt="repositories" title="Repositories" src="https://custom-icon-badges.demolab.com/badge/-Repos-191C26?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
-![](https://github-readme-stats.vercel.app/api?username=Daniel-Cocos&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Cocos&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"/> </br>
+  <a href="https://github.com/Daniel-Cocos"><img alt="github" title="github" src="https://custom-icon-badges.demolab.com/badge/-Github-1F222E?style=for-the-badge&logoColor=white&logo=github"/></a>
+  <a href="https://github.com/Daniel-Cocos?tab=repositories&sort=stargazers"><img alt="repositories" title="Repositories" src="https://custom-icon-badges.demolab.com/badge/-Repos-191C26?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
 
 <details open>
@@ -34,7 +41,6 @@ I am a <strong>full-time university student</strong> who loves technology. I hav
     <li><strong>Chess Engine</strong>: Creating and training a machine learning algorithm to play chess.</li>
   </ul>
 </details>
-
 
 <details open>
 <summary><h2>🖥️ Tech Stack</h2></summary>
