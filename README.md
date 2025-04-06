@@ -17,7 +17,7 @@
 
 <details open>
 <summary><h2>🧑‍💻 About</h2></summary>
-I am a <strong>full-time university student</strong> who loves technology. I have <strong>participated in</strong> the <a href="https://www.cipherchallenge.org/">National Cipher Challenge</a> organized by the <a href="https://www.southampton.ac.uk/">University of Southampton</a>, which provided me with the opportunity to work as a team to solve and break various ciphers. In my <strong>free time, I write programs</strong> that I personally find fun. I <strong>aspire to work in tech</strong> in any position that will best utilize my skills while also pushing me toward improvement. Additionally, I <strong>enjoy attending hackathons</strong> as a way to challenge my coding abilities, as well as a great opportunity to collaborate with other developers.
+Full-time university student. Participated in the <a href="https://www.cipherchallenge.org/">National Cipher Challenge</a> organized by <a href="https://www.southampton.ac.uk/">University of Southampton</a>, which has given me the opportunity to work as a team to solve and break various ciphers. I write programs and aspire to work in tech in any position that will best utilize my skills while also pushing me toward improvement. I enjoy attending hackathons as a way to challenge my coding abilities, as well as great opportunities to collaborate with other developers.
 </details>
 
 
