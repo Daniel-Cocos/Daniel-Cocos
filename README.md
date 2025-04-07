@@ -170,7 +170,7 @@ Full-time university student. Participated in the <a href="https://www.ciphercha
 <div id="user-content-toc" align="center">
   <ul align="center" style="list-style: none;">
     <summary align="center">
-      <h2 align="center">📊 Stats</h2></br>
+      <h2 align="center">📊 Statistics</h2></br>
     </summary>
   </ul>
 </div>
