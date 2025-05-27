@@ -25,30 +25,8 @@
   </ul>
 </div>
 Full-time university student. Participated in the <a href="https://www.cipherchallenge.org/">National Cipher Challenge</a> organized by <a href="https://www.southampton.ac.uk/">University of Southampton</a>, which has given me the opportunity to work as a team to solve and break various ciphers. I write programs and aspire to work in tech in any position that will best utilize my skills while also pushing me toward improvement. I enjoy attending hackathons as a way to challenge my coding abilities, as well as great opportunities to collaborate with other developers.
-
-
-<!--
-<details open>
-<summary><h2>🚀 Current Projects</h2></summary>
-  <ul>
-    <li><strong>Cypher Encryption/Decryption Tools</strong>: A set of tools for encrypting and decrypting data using various algorithms.</li>
-    <li><strong>Lovelace</strong>: Using machine learning algorithms to predict heart disease.</li>
-    <li><strong>Benchmark Website</strong>: Creating an interactive benchmark website.</li>
-  </ul>
-</details>
-
-
-<details open>
-<summary><h2>📋 Bucket List</h2></summary>
-  <ul>
-    <li><strong>Custom Scripting Language</strong>: Building a custom scripting language.</li>
-    <li><strong>Portfolio Website</strong>: Personal website to showcase my work and projects.</li>
-    <li><strong>3D Game Engine</strong>: Engine to help develop better low-level programming skills.</li>
-    <li><strong>Chess Engine</strong>: Creating and training a machine learning algorithm to play chess.</li>
-  </ul>
-</details>
--->
-
+<br/>
+<br/>
 
 <div id="user-content-toc" align="center">
   <ul align="center" style="list-style: none;">
@@ -158,13 +136,7 @@ Full-time university student. Participated in the <a href="https://www.ciphercha
   </table>
 </div>
 
-<br/>
-<br/>
-
-<br/>
-
 </details>
-
 <br/>
 
 <div id="user-content-toc" align="center">
