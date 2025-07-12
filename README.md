@@ -148,8 +148,8 @@ Full-time university student. Participated in the <a href="https://www.ciphercha
 </div>
   
 <p align="center">
- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Daniel-Cocos&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=06909A&text_color=ffffff&icon_color=06909A">
+ <img height="auto" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Daniel-Cocos&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=06909A&text_color=ffffff&icon_color=06909A">
 
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Cocos&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=06909A&text_color=ffffff">
+<img height="auto" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Cocos&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=06909A&text_color=ffffff">
 
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=Daniel-Cocos&hide_border=true&background=00000000&stroke=06909A&ring=06909A&fire=06909A&currStreakLabel=06909A&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA&sideLabels=ffffff">
