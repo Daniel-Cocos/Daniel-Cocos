@@ -9,9 +9,6 @@
 </div>
 
 <p align="center">
-  <!--
-    <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Cocos&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"/> </br>
-  -->
   <a href="https://github.com/Daniel-Cocos"><img alt="github" title="GitHub" src="https://custom-icon-badges.demolab.com/badge/-Github-1F222E?style=for-the-badge&logoColor=white&logo=github"/></a>
   <a href="https://linkedin.com/in/Daniel-Cocos"><img alt="github" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-1F222E?style=for-the-badge&logoColor=white&logo=linkein"/></a>
   <a href="https://github.com/Daniel-Cocos?tab=repositories&sort=stargazers"><img alt="repositories" title="Repositories" src="https://custom-icon-badges.demolab.com/badge/-Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -39,99 +36,42 @@ Full-time university student. Participated in the <a href="https://www.ciphercha
   
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
-    <tr>
       <td align="center" width="100">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="45" height="45" />
+        <a href="https://git-scm.com/">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45" />
         </a>
-        <br>JavaScript
+        <br>Git
       </td>
-      <td align="center" width="100">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-          <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="45" height="45" />
+    <td align="center" width="100">
+        <a href="https://github.com/Daniel-Cocos">
+          <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="45" height="45" />
         </a>
-        <br>HTML5
+        <br>GitHub
       </td>
-      <td align="center" width="100">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-          <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS" width="45" height="45" />
-        </a>
-        <br>CSS3
-      </td>
-      <td align="center" width="100">
-        <a href="https://www.python.org/">
-          <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="45" height="45" />
-        </a>
-        <br>Python
-      </td>
-      <td align="center" width="100">
-        <a href="https://www.oracle.com/java/">
-          <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="45" height="45" />
-        </a>
-        <br>Java
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <a href="https://isocpp.org/">
-          <img align="center" alt="C Plus Plus" width="45" height="45" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-        </a>
-        <br>C++
-      </td>
-      <td align="center" width="100">
-        <a href="https://isocpp.org/">
-          <img align="center" alt="C" width="45" height="45" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-        </a>
-        <br>C
-      </td>
-      <td align="center" width="100">
-        <a href="https://www.lua.org/">
-          <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="Lua" width="45" height="45" />
-        </a>
-        <br>Lua
-      </td>
-      <td align="center" width="100">
-        <a href="https://www.php.net/">
-          <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="45" height="45" />
-        </a>
-        <br>PHP
-      </td>
-      <td align="center" width="100">
-        <a href="https://www.mysql.com/">
-          <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45" />
-        </a>
-        <br>MySQL
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
+     <td align="center" width="100">
         <a href="https://neovim.io/">
           <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="NeoVim" width="45" height="45" />
         </a>
         <br>NeoVim
-      <td align="center" width="100">
-        <a href="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
-          <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="45" height="45" />
+    </tr>
+    <tr>
+    <td align="center" width="100">
+        <a href="https://github.com/tmux/tmux/wiki">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" alt="GitHub" width="45" height="45" />
         </a>
-        <br>Linux
+        <br>Tmux
       </td>
       <td align="center" width="100">
-        <a href="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">
-          <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="45" height="45" />
-        </a>
-        <br>Ubuntu
-      </td>
-      <td align="center" width="100">
-        <a href="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg">
+        <a href="https://archlinux.org/">
           <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch Linux" width="45" height="45" />
         </a>
         <br>Arch
       </td>
       <td align="center" width="100">
-        <a href="https://www.vectorlogo.zone/logos/docker/docker-tile.svg">
-          <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Docker" width="45" height="45" />
+        <a href="https://www.linux.com/">
+          <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="45" height="45" />
         </a>
-        <br>Docker
+        <br>Linux
       </td>
     </tr>
   </table>
@@ -149,8 +89,13 @@ Full-time university student. Participated in the <a href="https://www.ciphercha
 </div>
   
 <p align="center">
- <img height="auto" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Daniel-Cocos&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=06909A&text_color=ffffff&icon_color=06909A">
-
-<img height="auto" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Cocos&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=06909A&text_color=ffffff">
 
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=Daniel-Cocos&hide_border=true&background=00000000&stroke=06909A&ring=06909A&fire=06909A&currStreakLabel=06909A&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA&sideLabels=ffffff">
+
+</p>
+
+<p align="center">
+  
+<img height="auto" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Cocos&layout=compact&hide_border=true&bg_color=00000000&langs_count=999&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=06909A&text_color=ffffff">
+
+</p>
