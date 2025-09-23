@@ -12,7 +12,8 @@
   <!--
     <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Cocos&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"/> </br>
   -->
-  <a href="https://github.com/Daniel-Cocos"><img alt="github" title="github" src="https://custom-icon-badges.demolab.com/badge/-Github-1F222E?style=for-the-badge&logoColor=white&logo=github"/></a>
+  <a href="https://github.com/Daniel-Cocos"><img alt="github" title="GitHub" src="https://custom-icon-badges.demolab.com/badge/-Github-1F222E?style=for-the-badge&logoColor=white&logo=github"/></a>
+  <a href="https://linkedin.com/in/Daniel-Cocos"><img alt="github" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-1F222E?style=for-the-badge&logoColor=white&logo=linkein"/></a>
   <a href="https://github.com/Daniel-Cocos?tab=repositories&sort=stargazers"><img alt="repositories" title="Repositories" src="https://custom-icon-badges.demolab.com/badge/-Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
