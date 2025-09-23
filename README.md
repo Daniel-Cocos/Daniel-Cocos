@@ -55,12 +55,6 @@ Full-time university student. Participated in the <a href="https://www.ciphercha
         <br>NeoVim
     </tr>
     <tr>
-    <td align="center" width="100">
-        <a href="https://github.com/tmux/tmux/wiki">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" alt="GitHub" width="45" height="45" />
-        </a>
-        <br>Tmux
-      </td>
       <td align="center" width="100">
         <a href="https://archlinux.org/">
           <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch Linux" width="45" height="45" />
@@ -72,6 +66,12 @@ Full-time university student. Participated in the <a href="https://www.ciphercha
           <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="45" height="45" />
         </a>
         <br>Linux
+      </td>
+    <td align="center" width="100">
+        <a href="https://github.com/tmux/tmux/wiki">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" alt="GitHub" width="45" height="45" />
+        </a>
+        <br>Tmux
       </td>
     </tr>
   </table>
