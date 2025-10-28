@@ -56,10 +56,10 @@ Full-time university student. Participated in the <a href="https://www.ciphercha
     </tr>
     <tr>
       <td align="center" width="100">
-        <a href="https://archlinux.org/">
-          <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch Linux" width="45" height="45" />
+        <a href="https://nixos.org/">
+          <img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" alt="NixOS" width="45" height="45" />
         </a>
-        <br>Arch
+        <br>NixOS
       </td>
       <td align="center" width="100">
         <a href="https://www.linux.com/">
