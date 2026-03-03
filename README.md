@@ -14,22 +14,10 @@
   <a href="https://github.com/Daniel-Cocos?tab=repositories&sort=stargazers"><img alt="repositories" title="Repositories" src="https://custom-icon-badges.demolab.com/badge/-Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-
 <div id="user-content-toc" align="center">
   <ul align="center" style="list-style: none;">
     <summary align="center">
-      <h2 align="center">🧑‍💻 About</h2></br>
-    </summary>
-  </ul>
-</div>
-Full-time university student. Participated in the <a href="https://www.cipherchallenge.org/">National Cipher Challenge</a> organized by <a href="https://www.southampton.ac.uk/">University of Southampton</a>, which has given me the opportunity to work as a team to solve and break various ciphers. I write programs and aspire to work in tech in any position that will best utilize my skills while also pushing me toward improvement. I enjoy attending hackathons as a way to challenge my coding abilities, as well as great opportunities to collaborate with other developers.
-<br/>
-<br/>
-
-<div id="user-content-toc" align="center">
-  <ul align="center" style="list-style: none;">
-    <summary align="center">
-      <h2 align="center">🖥️ Tech Stack</h2></br>
+      <h2 align="center">Tech Stack</h2></br>
     </summary>
   </ul>
 </div>
@@ -76,26 +64,5 @@ Full-time university student. Participated in the <a href="https://www.ciphercha
     </tr>
   </table>
 </div>
-
 </details>
 <br/>
-
-<div id="user-content-toc" align="center">
-  <ul align="center" style="list-style: none;">
-    <summary align="center">
-      <h2 align="center">📊 Statistics</h2></br>
-    </summary>
-  </ul>
-</div>
-  
-<p align="center">
-
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=Daniel-Cocos&hide_border=true&background=00000000&stroke=06909A&ring=06909A&fire=06909A&currStreakLabel=06909A&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA&sideLabels=ffffff">
-
-</p>
-
-<p align="center">
-  
-<img height="auto" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Cocos&layout=compact&hide_border=true&bg_color=00000000&langs_count=999&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=06909A&text_color=ffffff">
-
-</p>
