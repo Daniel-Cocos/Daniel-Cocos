@@ -30,37 +30,17 @@
         </a>
         <br>Git
       </td>
-    <td align="center" width="100">
-        <a href="https://github.com/Daniel-Cocos">
-          <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="45" height="45" />
-        </a>
-        <br>GitHub
-      </td>
-     <td align="center" width="100">
-        <a href="https://neovim.io/">
-          <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="NeoVim" width="45" height="45" />
-        </a>
-        <br>NeoVim
-    </tr>
-    <tr>
       <td align="center" width="100">
         <a href="https://nixos.org/">
           <img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" alt="NixOS" width="45" height="45" />
         </a>
         <br>NixOS
       </td>
-      <td align="center" width="100">
-        <a href="https://www.linux.com/">
-          <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="45" height="45" />
+     <td align="center" width="100">
+        <a href="https://neovim.io/">
+          <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="NeoVim" width="45" height="45" />
         </a>
-        <br>Linux
-      </td>
-    <td align="center" width="100">
-        <a href="https://github.com/tmux/tmux/wiki">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" alt="GitHub" width="45" height="45" />
-        </a>
-        <br>Tmux
-      </td>
+        <br>NeoVim
     </tr>
   </table>
 </div>
