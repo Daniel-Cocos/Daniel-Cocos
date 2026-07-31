@@ -47,9 +47,12 @@ Previously a <b>Software Engineer Intern</b> at [Uniserve Group](https://uniserv
 
 [PolyPanel](https://github.com/Daniel-Cocos/PolyPanel) - Innovate Suffolk 2026
 <br>
-[MyPill](https://github.com/Aleks-Tacconi/MyPill) - HackSussex 2026, BCS Digital Accessibility & Sussex AI Award
+[MyPill](https://github.com/Aleks-Tacconi/MyPill) - HackSussex (2026): Winner BCS Digital Accessibility & Sussex AI Award
 <br>
-[Helping Hand](https://github.com/Aleks-Tacconi/HelpingHand) - HackSussex 2025, Champion of the Masses
+[Helping Hand](https://github.com/Aleks-Tacconi/HelpingHand) - HackSussex (2025): Winner of Champion of the Masses
+<br>
+[National Cipher Challenge](https://github.com/Aleks-Tacconi/NationalCipherChallenge) - University of Southampton (2023): Co-accredited certificate finalist from GCHQ
+
 
 ---
 
