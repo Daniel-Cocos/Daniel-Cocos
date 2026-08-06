@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/Daniel-Cocos"><img alt="linkedin" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-0077B5?style=for-the-badge&logoColor=white&logo=linkein"/></a>
   <a href="https://github.com/Daniel-Cocos"><img alt="github" title="GitHub" src="https://custom-icon-badges.demolab.com/badge/-Github-1F222E?style=for-the-badge&logoColor=white&logo=github"/></a>
   <a href="https://devpost.com/Daniel-Cocos"><img alt="devpost" title="Devpost" src="https://custom-icon-badges.demolab.com/badge/-Devpost-003E54?style=for-the-badge&logoColor=white&logo=devpost"/></a>
-  <a href="https://daniel-cocos.vercel.app/"><img alt="portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Vercel-000000?style=for-the-badge&logoColor=white&logo=vercel"/></a>
+  <a href="https://daniel-cocos.vercel.app/"><img alt="portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Vercel-000000?style=for-the-badge&logoColor=white&logo=Portfolio"/></a>
 </p>
 
 
